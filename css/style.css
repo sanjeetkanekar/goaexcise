@@ -216,6 +216,20 @@ h6,
     margin-top: 20px;
 }
 
+.aboutus td, th {
+    padding: 5px;
+    text-align: center;
+  }
+
+  .aboutus table, th, td {
+    border: 1px solid black;
+  }
+
+  .aboutus table{
+    width: 100%;
+    margin: 35px 0px;
+  }
+
 .services h3 {
     font-size: 1.5rem;
     color: #2878EB;
