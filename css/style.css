@@ -272,6 +272,10 @@ h6,
     color: var(--light) !important;
 }
 
+.investmentscheme table th {
+    background: #2878EB;
+    color: white;
+}
 .bg-offer {
     background: linear-gradient(rgba(18, 15, 45, .5), rgba(18, 15, 45, .5)), url(../img/carousel-2.jpg) top right no-repeat;
     background-size: cover;
