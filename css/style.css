@@ -276,6 +276,15 @@ h6,
     background: #2878EB;
     color: white;
 }
+
+.boardofdirectors h3{
+    font-size: 1.5rem;
+}
+
+.news .card:hover{
+    background-color: #e9ecef;
+  font-weight:600;
+}
 .bg-offer {
     background: linear-gradient(rgba(18, 15, 45, .5), rgba(18, 15, 45, .5)), url(../img/carousel-2.jpg) top right no-repeat;
     background-size: cover;
