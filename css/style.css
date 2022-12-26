@@ -281,6 +281,11 @@ h6,
     font-size: 1.5rem;
 }
 
+.boardofdirectors .text-white{
+   text-align: center;
+   letter-spacing: 0;
+}
+
 .news .card:hover{
     background-color: #e9ecef;
   font-weight:600;
